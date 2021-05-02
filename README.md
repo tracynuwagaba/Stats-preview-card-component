@@ -4,7 +4,15 @@ Frontend mentor challenges help you improve your coding skills by building proje
 
 ## Table of Contents
 
-- [Overview](#overview) -[The challenge](#the-challenge) -[Screenshot](#screenshot) -[Links](#links) -[My process](#my-process) -[Built with](#built-with) -[What I learned](#what-i-learned) -[Author](#author) -[Acknowledgements](#acknowledgements)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
