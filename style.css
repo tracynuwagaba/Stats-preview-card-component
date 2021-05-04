@@ -46,6 +46,7 @@ body {
 .card {
   display: flex;
   justify-content: center;
+  align-items: center;
   color: #fff;
   padding: 1rem;
 }
