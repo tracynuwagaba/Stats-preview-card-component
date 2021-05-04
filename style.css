@@ -38,7 +38,7 @@ body {
   align-items: center;
   /* padding: 40px; */
   margin: auto;
-  max-width: 95vw;
+  max-width: 1110px;
   height: 446px;
   border-radius: 10px;
 }
@@ -84,7 +84,7 @@ body {
 }
 
 .metrics {
-  margin-top: 70px;
+  margin-top: 30px;
   display: flex;
   align-items: center;
 }
