@@ -29,6 +29,7 @@ body {
   background: var(--main-bg-color);
   width: 100%;
   height: 100vh;
+  padding: 20px;
   /* box-sizing: inherit; */
 }
 
@@ -37,8 +38,8 @@ body {
   /* justify-content: center;
   align-items: center; */
   /* padding: 40px; */
-  margin: 20px auto;
-  max-width: 75vw;
+  margin: auto;
+  max-width: 95vw;
   height: 440px;
   border-radius: 10px;
 }
