@@ -21,6 +21,8 @@
   --font-inter: "Inter", sans-serif;
   --font-lexend: "Lexend Deca", sans-serif;
   --body-font: 15px;
+  --font-medium: 400;
+  --font-large: 700;
 }
 
 body {
@@ -32,8 +34,13 @@ body {
 
 .container {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
+  /* padding: 40px; */
+  margin: 20% auto;
+  max-width: 1240px;
+  height: 440px;
+  border-radius: 10px;
 }
 
 .card {
@@ -41,4 +48,83 @@ body {
   justify-content: center;
   color: #fff;
   padding: 1rem;
+}
+
+.card__content {
+  width: 53%;
+  /* height: 500px; */
+  background-color: var(--card-bg-color);
+  padding-left: 64px;
+  padding-top: 64px;
+  border-radius: 8px 0 0 8px;
+}
+
+.title,
+.para {
+  width: 80%;
+}
+
+.title {
+  color: var(--main-heading);
+  font-family: var(--font-inter);
+  font-weight: var(--font-large);
+  font-size: 20px;
+}
+
+.title span {
+  color: var(--accent-color);
+}
+
+.para {
+  font-family: var(--font-lexend);
+  color: var(--main-paragraph);
+  font-size: 10px;
+  line-height: 1.5;
+  margin-top: 30px;
+}
+
+.metrics {
+  margin-top: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.stats {
+  margin-right: 30px;
+}
+
+.num {
+  color: var(--main-heading);
+}
+
+.text {
+  color: var(--stat-heading);
+  font-family: var(--font-lexend);
+  text-transform: uppercase;
+  font-size: 10px;
+  margin-top: 2px;
+}
+
+.card__img {
+  width: 47%;
+  background-image: url("./images/image-header-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: var(--accent-color);
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-blend-mode: soft-light;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 80px;
+  left: 40%;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.attribution a {
+  color: var(--main-paragraph);
 }
