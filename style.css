@@ -132,7 +132,7 @@ body {
 
 /* Mobile view */
 @media (max-width: 480px) {
-  .container {
+  body {
     display: flex;
     justify-content: center;
     align-items: center;
