@@ -142,7 +142,7 @@ body {
     flex-direction: column;
     width: 315px;
     height: 760px;
-    margin: 80px 0;
+    margin: 80px auto;
   }
   .card__img {
     width: 100%;
