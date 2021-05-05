@@ -167,8 +167,8 @@ body {
     padding: 20px;
   }
   .title {
-    font-size: 23px;
-    /* width: 90%; */
+    /* font-size: 23px; */
+    width: 95%;
   }
   .para {
     font-size: 11px;
