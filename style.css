@@ -69,7 +69,7 @@ body {
   color: var(--main-heading);
   font-family: var(--font-inter);
   font-weight: var(--font-large);
-  font-size: 2rem;
+  font-size: 2.25rem;
 }
 
 .title span {
@@ -85,7 +85,7 @@ body {
 }
 
 .metrics {
-  margin-top: 70px;
+  margin-top: 75px;
   padding-bottom: 30px;
   display: flex;
   align-items: center;
