@@ -158,7 +158,7 @@ body {
   }
   .card__content {
     width: 100%;
-    min-height: 350px;
+    min-height: 400px;
     order: 2;
     display: flex;
     flex-direction: column;
