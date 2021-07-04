@@ -142,13 +142,13 @@ body {
     display: flex;
     flex-direction: column;
     width: 315px;
-    height: 680px;
+    height: 640px;
     /* margin: 80px auto; */
     margin-top: 8rem;
   }
   .card__img {
     width: 100%;
-    height: 240px;
+    height: 300px;
     order: 1;
     background-image: url("/images/image-header-mobile.jpg");
     background-repeat: no-repeat;
