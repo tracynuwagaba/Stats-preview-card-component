@@ -69,7 +69,7 @@ body {
   color: var(--main-heading);
   font-family: var(--font-inter);
   font-weight: var(--font-large);
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 .title span {
