@@ -158,7 +158,7 @@ body {
   }
   .card__content {
     width: 100%;
-    min-height: 518px;
+    min-height: 400px;
     order: 2;
     display: flex;
     flex-direction: column;
@@ -166,8 +166,7 @@ body {
     align-items: center;
     text-align: center;
     border-radius: 0 0 8px 8px;
-    padding: 20px;
-    padding-top: 30px;
+    padding: 10px;
   }
   .title {
     font-size: 1.125rem;
